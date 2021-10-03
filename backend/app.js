@@ -7,7 +7,6 @@ const helmet = require('helmet');
 const mongoSanitize = require('express-mongo-sanitize');
 const path = require('path');
 
-const userRouter = require('./api/routers/userRouter');
 const indexRoutes = require('./api/routers/indexRoutes');
 
 const globalErrorHandler = require('./api/middlewares/globalErrorHandler');
@@ -43,12 +42,11 @@ app.use(mongoSanitize()); //   filter out the dollar signs protect from  query i
 
 // testing middleware
 app.use((req, res, next) => {
-	console.log('this is a middleware');
+	// Auth stuff?
 	next();
 });
 
 // routes
-app.use('/api/v1/users', userRouter);
 app.use('/api/v1', indexRoutes);
 
 // handling all (get,post,update,delete.....) unhandled routes
