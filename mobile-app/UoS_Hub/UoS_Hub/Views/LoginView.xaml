@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:material="clr-namespace:XF.Material.Forms.UI;assembly=XF.Material"
+             Title="Login"
+             x:Class="UoS_Hub.Views.LoginView">
+    <ContentPage.Content>
+        <StackLayout 
+            Orientation="Vertical"
+            HorizontalOptions="Center"
+            VerticalOptions="Center">
+            
+            <StackLayout Orientation="Vertical"
+                         Padding="10, 0"
+                         HorizontalOptions="Center"
+                         VerticalOptions="Center">
+                <material:MaterialTextField 
+                    Placeholder="Your Tag"
+                    HelperText="Enter your email nickname (xxx@soton.ac.uk)"
+                    InputType="Plain"
+                    Text="{Binding Tag}"/>
+                
+                <material:MaterialTextField 
+                    Placeholder="Your password"
+                    InputType="Password"
+                    Text="{Binding Password}"/>
+                <material:MaterialButton 
+                    Text="Login"
+                    ButtonType="Elevated"
+                    Command="{Binding LoginCommand}"/>
+                <material:MaterialButton 
+                    Text="Sign Up"
+                    ButtonType="Outlined"
+                    Command="{Binding SignUpCommand}"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

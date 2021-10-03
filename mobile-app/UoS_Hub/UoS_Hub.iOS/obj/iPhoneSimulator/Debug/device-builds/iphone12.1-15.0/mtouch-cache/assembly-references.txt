@@ -22,5 +22,11 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/15.0.0.6/lib/mono/Xamarin.iOS/System.Web.Services.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/15.0.0.6/lib/mono/Xamarin.iOS/System.Xml.Linq.dll
 /Users/skymanone/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
-/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/bin/Debug/netstandard2.0/UoS_Hub.dll
+/Users/skymanone/.nuget/packages/xf.material/1.7.8/lib/xamarinios10/XF.Material.dll
+/Users/skymanone/.nuget/packages/com.airbnb.xamarin.forms.lottie/4.0.9/lib/xamarinios10/Lottie.Forms.dll
+/Users/skymanone/.nuget/packages/com.airbnb.ios.lottie/2.5.13/lib/xamarinios10/Lottie.iOS.dll
 /Users/skymanone/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
+/Users/skymanone/.nuget/packages/xamarin.essentials/1.6.1/lib/xamarinios10/Xamarin.Essentials.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.0.0.6/lib/mono/Xamarin.iOS/OpenTK-1.0.dll
+/Users/skymanone/.nuget/packages/rg.plugins.popup/2.0.0.11/lib/xamarinios10/Rg.Plugins.Popup.dll
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/bin/Debug/netstandard2.0/UoS_Hub.dll

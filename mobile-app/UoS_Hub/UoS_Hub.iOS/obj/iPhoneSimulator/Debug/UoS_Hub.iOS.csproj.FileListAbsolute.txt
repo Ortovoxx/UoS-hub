@@ -54,3 +54,13 @@
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/UoS_Hub.iOS.csproj.CopyComplete
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/UoS_Hub.iOS.exe
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/UoS_Hub.iOS.pdb
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/Lottie.iOS.dll
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/Lottie.iOS.pdb
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/Lottie.Forms.dll
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/Lottie.Forms.pdb
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/Rg.Plugins.Popup.dll
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/Rg.Plugins.Popup.pdb
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/XF.Material.dll
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/XF.Material.pdb
