@@ -14,36 +14,36 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][ipad][40x40][][][1x][][][]</string>
+				<string>./AppIcon.appiconset/[][iphone][29x29][][][3x][][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The file "Icon40.png" for the image set "AppIcon" does not exist.</string>
+			<string>The file "Icon87.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][iphone][20x20][][][3x][][][]</string>
+				<string>./AppIcon.appiconset/[][ipad][40x40][][][2x][][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The file "Icon60.png" for the image set "AppIcon" does not exist.</string>
+			<string>The file "Icon80.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][iphone][60x60][][][2x][][][]</string>
+				<string>./AppIcon.appiconset/[][ipad][29x29][][][1x][][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The file "Icon120.png" for the image set "AppIcon" does not exist.</string>
+			<string>The file "Icon29.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
@@ -62,12 +62,96 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][ipad][40x40][][][2x][][][]</string>
+				<string>./AppIcon.appiconset/[][iphone][60x60][][][3x][][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon180.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][83.5x83.5][][][2x][][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon167.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][20x20][][][3x][][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon60.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ios-marketing][1024x1024][][][1x][][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon1024.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][40x40][][][2x][][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
 			<string>The file "Icon80.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][40x40][][][3x][][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon120.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][76x76][][][2x][][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon152.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][60x60][][][2x][][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon120.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
@@ -98,30 +182,6 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][iphone][20x20][][][2x][][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "Icon40.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][iphone][40x40][][][2x][][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "Icon80.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
 				<string>./AppIcon.appiconset/[][ipad][29x29][][][2x][][][]</string>
 			</array>
 			<key>catalog</key>
@@ -134,60 +194,24 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][ipad][76x76][][][2x][][][]</string>
+				<string>./AppIcon.appiconset/[][iphone][20x20][][][2x][][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The file "Icon152.png" for the image set "AppIcon" does not exist.</string>
+			<string>The file "Icon40.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][ipad][83.5x83.5][][][2x][][][]</string>
+				<string>./AppIcon.appiconset/[][ipad][40x40][][][1x][][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The file "Icon167.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][ios-marketing][1024x1024][][][1x][][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "Icon1024.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][iphone][60x60][][][3x][][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "Icon180.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][iphone][29x29][][][3x][][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "Icon87.png" for the image set "AppIcon" does not exist.</string>
+			<string>The file "Icon40.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
@@ -200,30 +224,6 @@
 			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
 			<string>The file "Icon40.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][iphone][40x40][][][3x][][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "Icon120.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][ipad][29x29][][][1x][][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "Icon29.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>

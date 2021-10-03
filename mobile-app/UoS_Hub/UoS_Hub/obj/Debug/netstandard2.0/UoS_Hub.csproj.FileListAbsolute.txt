@@ -4,10 +4,15 @@
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/UoS_Hub.csproj.AssemblyReference.cache
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/UoS_Hub.GeneratedMSBuildEditorConfig.editorconfig
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/App.xaml.g.cs
-/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/UoS_Hub.AssemblyInfoInputs.cache
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/UoS_Hub.AssemblyInfo.cs
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/UoS_Hub.csproj.CoreCompileInputs.cache
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/UoS_Hub.dll
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/UoS_Hub.pdb
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/Views/InitNavPage.xaml.g.cs
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/Views/LoginView.xaml.g.cs
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/Views/MainNavigationPage.xaml.g.cs
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/Views/MainView.xaml.g.cs
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/Views/MapNavView.xaml.g.cs
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/Views/RegistrationView.xaml.g.cs

@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "9jeqzwEAImZB1INSqweHsihNqaQLiUh9XF3dXvj6NYcNUq4PLyBnA16IP17CmxsovSse2VM8ZxS++Xqb2GG65Q==",
+  "dgSpecHash": "Y62qwPuUC82802jZBblrnH4k9KvyBPm5giO+VT8JtNxqce7ppwah0xgxg5s8biyfFtKY5TamKMl6qNIh9S3llw==",
   "success": true,
   "projectFilePath": "/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.Android/UoS_Hub.Android.csproj",
   "expectedPackageFiles": [
+    "/Users/skymanone/.nuget/packages/com.airbnb.android.lottie/3.6.1/com.airbnb.android.lottie.3.6.1.nupkg.sha512",
+    "/Users/skymanone/.nuget/packages/com.airbnb.xamarin.forms.lottie/4.0.9/com.airbnb.xamarin.forms.lottie.4.0.9.nupkg.sha512",
+    "/Users/skymanone/.nuget/packages/rg.plugins.popup/2.0.0.11/rg.plugins.popup.2.0.0.11.nupkg.sha512",
+    "/Users/skymanone/.nuget/packages/square.okio/1.17.4/square.okio.1.17.4.nupkg.sha512",
+    "/Users/skymanone/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/skymanone/.nuget/packages/xamarin.androidx.activity/1.1.0.5/xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "/Users/skymanone/.nuget/packages/xamarin.androidx.annotation/1.1.0.8/xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "/Users/skymanone/.nuget/packages/xamarin.androidx.annotation.experimental/1.0.0.8/xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",
@@ -48,9 +53,11 @@
     "/Users/skymanone/.nuget/packages/xamarin.androidx.versionedparcelable/1.1.1.6/xamarin.androidx.versionedparcelable.1.1.1.6.nupkg.sha512",
     "/Users/skymanone/.nuget/packages/xamarin.androidx.viewpager/1.0.0.6/xamarin.androidx.viewpager.1.0.0.6.nupkg.sha512",
     "/Users/skymanone/.nuget/packages/xamarin.androidx.viewpager2/1.0.0.8/xamarin.androidx.viewpager2.1.0.0.8.nupkg.sha512",
+    "/Users/skymanone/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
     "/Users/skymanone/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512",
     "/Users/skymanone/.nuget/packages/xamarin.google.android.material/1.2.1.1/xamarin.google.android.material.1.2.1.1.nupkg.sha512",
-    "/Users/skymanone/.nuget/packages/xamarin.google.guava.listenablefuture/1.0.0.2/xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
+    "/Users/skymanone/.nuget/packages/xamarin.google.guava.listenablefuture/1.0.0.2/xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512",
+    "/Users/skymanone/.nuget/packages/xf.material/1.7.8/xf.material.1.7.8.nupkg.sha512"
   ],
   "logs": []
 }
