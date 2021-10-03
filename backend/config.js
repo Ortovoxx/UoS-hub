@@ -1,9 +1,8 @@
 require('dotenv').config();
 
 module.exports = {
-    DATABASE: 'mongodb+srv://Admin:<PASSWORD>@cluster0.sbawc.mongodb.net/expressBoiler?retryWrites=true&w=majority',
-    DATABASE_LOCAL: 'mongodb://localhost:27017/expressBoiler',
-    DATABASE_PASSWORD: 'rEWyMCXxXeZbwPJl',
+    DATABASE_URL: 'mongodb+srv://ortovox-mongo-dev:<PASSWORD>@rh-cluster-0.rzlzp.mongodb.net/RH-Cluster-0?retryWrites=true&w=majority',
+    DATABASE_PASSWORD: process.env.DATABASE_PASSWORD,
     NODE_ENV: 'development',
     PORT: 5000,
 
