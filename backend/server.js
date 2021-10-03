@@ -1,4 +1,4 @@
-const DBConnect = require('./utils/dbConnect');
+const DBConnect = require('./db/dbConnect');
 
 const app = require('./app');
 const { PORT } = require('./config');
