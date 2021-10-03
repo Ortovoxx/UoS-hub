@@ -1,0 +1,2193 @@
+{
+    "1": {
+        "name": "Highfield Campus",
+        "buildings": {
+            "1": {
+                "name": "Building 1",
+                "latitude": "50.93772",
+                "longitude": "-1.39609",
+                "year_of_completion": "1965",
+                "residential": false
+            },
+            "2": {
+                "name": "Building 2",
+                "latitude": "50.93617",
+                "longitude": "-1.39821",
+                "year_of_completion": "1968",
+                "residential": false
+            },
+            "4": {
+                "name": "Law",
+                "latitude": "50.93605",
+                "longitude": "-1.39772",
+                "year_of_completion": "1963",
+                "residential": false
+            },
+            "5": {
+                "name": "Eustice",
+                "latitude": "50.93558",
+                "longitude": "-1.3948",
+                "year_of_completion": "1939",
+                "residential": false
+            },
+            "6": {
+                "name": "Nuffield Theatre",
+                "latitude": "50.93596",
+                "longitude": "-1.39719",
+                "year_of_completion": "1964",
+                "residential": false
+            },
+            "7": {
+                "name": "Lanchester",
+                "latitude": "50.93535",
+                "longitude": "-1.39404",
+                "year_of_completion": "1959",
+                "residential": false
+            },
+            "8": {
+                "name": "A B Woods Laboratory",
+                "latitude": "50.93655",
+                "longitude": "-1.39476",
+                "year_of_completion": "1989",
+                "residential": false
+            },
+            "9": {
+                "name": "Engineering Workshops",
+                "latitude": "50.93556",
+                "longitude": "-1.39424",
+                "year_of_completion": "1939 and 1957",
+                "residential": false
+            },
+            "13": {
+                "name": "Tizard",
+                "latitude": "50.93565",
+                "longitude": "-1.3937",
+                "year_of_completion": "1960",
+                "residential": false
+            },
+            "15": {
+                "name": "Wolfson/Rayleigh",
+                "latitude": "50.93585",
+                "longitude": "-1.3934",
+                "year_of_completion": "1968 and 1978",
+                "residential": false
+            },
+            "16": {
+                "name": "Building 16",
+                "latitude": "50.93765",
+                "longitude": "-1.39564",
+                "year_of_completion": "1989",
+                "residential": false
+            },
+            "17": {
+                "name": "R J Mitchell Wind Tunnel",
+                "latitude": "50.93627",
+                "longitude": "-1.3946",
+                "year_of_completion": "1960",
+                "residential": false
+            },
+            "18": {
+                "name": "Jubilee Sports Complex",
+                "latitude": "50.9339",
+                "longitude": "-1.39671",
+                "year_of_completion": "2004",
+                "residential": false
+            },
+            "19": {
+                "name": "ISVR",
+                "latitude": "50.93556",
+                "longitude": "-1.39282",
+                "year_of_completion": "2007",
+                "residential": false
+            },
+            "20": {
+                "name": "High Voltage Laboratory",
+                "latitude": "50.93694",
+                "longitude": "-1.39508",
+                "year_of_completion": "1991 and 2004",
+                "residential": false
+            },
+            "21": {
+                "name": "Faraday",
+                "latitude": "50.93515",
+                "longitude": "-1.39323",
+                "year_of_completion": "1963",
+                "residential": false
+            },
+            "23": {
+                "name": "Building 23",
+                "latitude": "50.93476",
+                "longitude": "-1.39327",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "25": {
+                "name": "EScience Building",
+                "latitude": "50.93483",
+                "longitude": "-1.39356",
+                "year_of_completion": "1931/1947",
+                "residential": false
+            },
+            "26": {
+                "name": "Building 26",
+                "latitude": "50.93472",
+                "longitude": "-1.39408",
+                "year_of_completion": "1955",
+                "residential": false
+            },
+            "27": {
+                "name": "Chemistry",
+                "latitude": "50.93434",
+                "longitude": "-1.39375",
+                "year_of_completion": "1937",
+                "residential": false
+            },
+            "28": {
+                "name": "Froude",
+                "latitude": "50.93471",
+                "longitude": "-1.39452",
+                "year_of_completion": "1959 and 1966",
+                "residential": false
+            },
+            "29": {
+                "name": "Graham Hills",
+                "latitude": "50.93402",
+                "longitude": "-1.39407",
+                "year_of_completion": "1960",
+                "residential": false
+            },
+            "30": {
+                "name": "Synthetic Chemistry",
+                "latitude": "50.93433",
+                "longitude": "-1.39456",
+                "year_of_completion": "1997",
+                "residential": false
+            },
+            "31": {
+                "name": "Hartley Store",
+                "latitude": "50.93377",
+                "longitude": "-1.39388",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "32": {
+                "name": "EEE Building",
+                "latitude": "50.93643",
+                "longitude": "-1.39589",
+                "year_of_completion": "2006",
+                "residential": false
+            },
+            "33": {
+                "name": "Estates (Maintenance)",
+                "latitude": "50.93338",
+                "longitude": "-1.39457",
+                "year_of_completion": "1938/1985",
+                "residential": false
+            },
+            "34": {
+                "name": "Education",
+                "latitude": "50.93451",
+                "longitude": "-1.3953",
+                "year_of_completion": "1948",
+                "residential": false
+            },
+            "35": {
+                "name": "David Kiddle",
+                "latitude": "50.93383",
+                "longitude": "-1.3945",
+                "year_of_completion": "1938",
+                "residential": false
+            },
+            "36": {
+                "name": "Library (inc. blds 10 12 & 14)",
+                "latitude": "50.93504",
+                "longitude": "-1.39531",
+                "year_of_completion": "1914 (1935/1959/1965/1995)",
+                "residential": false
+            },
+            "37": {
+                "name": "George Thomas",
+                "latitude": "50.93403",
+                "longitude": "-1.39566",
+                "year_of_completion": "1970",
+                "residential": false
+            },
+            "38": {
+                "name": "Staff Social Centre",
+                "latitude": "50.9354",
+                "longitude": "-1.39743",
+                "year_of_completion": "1960",
+                "residential": false
+            },
+            "39": {
+                "name": "Soton Stat Sci Res Institute",
+                "latitude": "50.95334",
+                "longitude": "-1.36574",
+                "year_of_completion": "2003",
+                "residential": false
+            },
+            "40": {
+                "name": "West Bld & Staff Social Centre",
+                "latitude": "50.93495",
+                "longitude": "-1.39752",
+                "year_of_completion": "1939/1948/1956",
+                "residential": false
+            },
+            "41": {
+                "name": "Early Years Centre",
+                "latitude": "50.93361",
+                "longitude": "-1.39527",
+                "year_of_completion": "1978",
+                "residential": false
+            },
+            "42": {
+                "name": "Students' Union/Refectory",
+                "latitude": "50.93418",
+                "longitude": "-1.39755",
+                "year_of_completion": "1966",
+                "residential": false
+            },
+            "44": {
+                "name": "Shackleton",
+                "latitude": "50.93452",
+                "longitude": "-1.39894",
+                "year_of_completion": "1966",
+                "residential": false
+            },
+            "45": {
+                "name": "Health Profs & Rehab Sciences",
+                "latitude": "50.9378",
+                "longitude": "-1.39402",
+                "year_of_completion": "1994",
+                "residential": false
+            },
+            "46": {
+                "name": "Physics",
+                "latitude": "50.93486",
+                "longitude": "-1.39961",
+                "year_of_completion": "1966",
+                "residential": false
+            },
+            "48": {
+                "name": "University Health Centre",
+                "latitude": "50.93569",
+                "longitude": "-1.39948",
+                "year_of_completion": "1992",
+                "residential": false
+            },
+            "52": {
+                "name": "Turner Sims Concert Hall",
+                "latitude": "50.93587",
+                "longitude": "-1.3988",
+                "year_of_completion": "1974",
+                "residential": false
+            },
+            "53": {
+                "name": "New Mountbatten",
+                "latitude": "50.93739",
+                "longitude": "-1.39862",
+                "year_of_completion": "2008",
+                "residential": false
+            },
+            "54": {
+                "name": "Mathematics",
+                "latitude": "50.93628",
+                "longitude": "-1.39884",
+                "year_of_completion": "1963 & 1965",
+                "residential": false
+            },
+            "56": {
+                "name": "Mathematical Sciences Student Centre",
+                "latitude": "50.93618",
+                "longitude": "-1.39855",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "57": {
+                "name": "Students' Union Retail Centre",
+                "latitude": "50.93443",
+                "longitude": "-1.39674",
+                "year_of_completion": "1996",
+                "residential": false
+            },
+            "58": {
+                "name": "Murray",
+                "latitude": "50.93662",
+                "longitude": "-1.39864",
+                "year_of_completion": "1975",
+                "residential": false
+            },
+            "59": {
+                "name": "New Zepler",
+                "latitude": "50.93733",
+                "longitude": "-1.39775",
+                "year_of_completion": "1997",
+                "residential": false
+            },
+            "60": {
+                "name": "Gower",
+                "latitude": "50.93775",
+                "longitude": "-1.39762",
+                "year_of_completion": "1999",
+                "residential": true
+            },
+            "61": {
+                "name": "Ship Science Store",
+                "latitude": "50.9359",
+                "longitude": "-1.39487",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "67": {
+                "name": "Nightingale",
+                "latitude": "50.93674",
+                "longitude": "-1.39658",
+                "year_of_completion": "2000",
+                "residential": false
+            },
+            "85": {
+                "name": "Life Sciences",
+                "latitude": "50.93645",
+                "longitude": "-1.39534",
+                "year_of_completion": "2010",
+                "residential": false
+            },
+            "100": {
+                "name": "Centenary Building",
+                "latitude": "50.93683",
+                "longitude": "-1.39771",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "115": {
+                "name": "Interchange Kiosk",
+                "latitude": "50.93619",
+                "longitude": "-1.39691",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "1050": {
+                "name": "26 University Road",
+                "latitude": "50.93331",
+                "longitude": "-1.39535",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "1051": {
+                "name": "28 University Road",
+                "latitude": "50.93321",
+                "longitude": "-1.39528",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "1101": {
+                "name": "31 University Road",
+                "latitude": "50.93306",
+                "longitude": "-1.39587",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "1102": {
+                "name": "39 University Road",
+                "latitude": "50.93334",
+                "longitude": "-1.39597",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "1104": {
+                "name": "41 University Road",
+                "latitude": "50.93344",
+                "longitude": "-1.39601",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "1105": {
+                "name": "43 University Road",
+                "latitude": "50.93351",
+                "longitude": "-1.39611",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "1106": {
+                "name": "45 University Road",
+                "latitude": "50.93358",
+                "longitude": "-1.39617",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "1107": {
+                "name": "47 University Road",
+                "latitude": "50.93363",
+                "longitude": "-1.39619",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "1419": {
+                "name": "44 Chamberlain Road (PSYCHOLOGY)",
+                "latitude": "50.93382",
+                "longitude": "-1.39948",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "1420": {
+                "name": "46 Chamberlain Road S/UNION",
+                "latitude": "50.93385",
+                "longitude": "-1.39954",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "9019": {
+                "name": "Plumbers' Store behind B35",
+                "latitude": "",
+                "longitude": "",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "2A": {
+                "name": "Building 2 Annexe",
+                "latitude": "50.93645",
+                "longitude": "-1.39752",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "7B": {
+                "name": "Bin Store near B7",
+                "latitude": "",
+                "longitude": "",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "7C": {
+                "name": "Engineering Square Cycle Store",
+                "latitude": "",
+                "longitude": "",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "38M": {
+                "name": "Staff Club Temporary Toilets (M)",
+                "latitude": "50.93561",
+                "longitude": "-1.39669",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "38N": {
+                "name": "Staff Club Temporary Toilets (F)",
+                "latitude": "50.93572",
+                "longitude": "-1.39672",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "38P": {
+                "name": "West Library Square Marquee",
+                "latitude": "50.93499",
+                "longitude": "-1.39689",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "44A": {
+                "name": "Building 44A",
+                "latitude": "50.93424",
+                "longitude": "-1.39866",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "59M": {
+                "name": "Gower Temporary Toilets (M)",
+                "latitude": "50.93722",
+                "longitude": "-1.3966",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "59N": {
+                "name": "Gower Temporary Toilets (F)",
+                "latitude": "50.93725",
+                "longitude": "-1.39661",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "59P": {
+                "name": "Gower Temporary Facility",
+                "latitude": "50.93743",
+                "longitude": "-1.39667",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "67M": {
+                "name": "Nightingale Temporary Toilets (M)",
+                "latitude": "50.93662",
+                "longitude": "-1.39688",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "67N": {
+                "name": "Nightingale Temporary Toilets (F)",
+                "latitude": "50.93661",
+                "longitude": "-1.39697",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "67P": {
+                "name": "Nightingale Temporary Facility",
+                "latitude": "50.93681",
+                "longitude": "-1.39696",
+                "year_of_completion": "",
+                "residential": false
+            }
+        }
+    },
+    "2": {
+        "name": "Boldrewood Campus",
+        "buildings": {
+            "176": {
+                "name": "Building 176",
+                "latitude": "50.93667",
+                "longitude": "-1.40466",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "177": {
+                "name": "Building 177",
+                "latitude": "50.93693",
+                "longitude": "-1.40396",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "178": {
+                "name": "Building 178",
+                "latitude": "50.93742",
+                "longitude": "-1.40415",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "185": {
+                "name": "Building 185",
+                "latitude": "50.93768",
+                "longitude": "-1.40505",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "190": {
+                "name": "Boldrewood Cycle Store",
+                "latitude": "50.93681",
+                "longitude": "-1.40418",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "1603": {
+                "name": "34 Bassett Crescent East",
+                "latitude": "50.93803",
+                "longitude": "-1.40326",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "176L": {
+                "name": "Building 176 Link",
+                "latitude": "50.9367",
+                "longitude": "-1.40505",
+                "year_of_completion": "",
+                "residential": false
+            }
+        }
+    },
+    "3": {
+        "name": "Avenue Campus",
+        "buildings": {
+            "65": {
+                "name": "Parkes Bldg",
+                "latitude": "50.92911",
+                "longitude": "-1.40239",
+                "year_of_completion": "1925 (1996)",
+                "residential": false
+            },
+            "1310": {
+                "name": "16 Highfield Road (HUMANITIES RESEARCH STUS)",
+                "latitude": "50.92908",
+                "longitude": "-1.40352",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "65A": {
+                "name": "Archaeology",
+                "latitude": "50.92879",
+                "longitude": "-1.40306",
+                "year_of_completion": "1960s",
+                "residential": false
+            },
+            "65B": {
+                "name": "Burgess",
+                "latitude": "50.92884",
+                "longitude": "-1.40363",
+                "year_of_completion": "1960s",
+                "residential": false
+            },
+            "65M": {
+                "name": "Avenue Temporary Toilets (M)",
+                "latitude": "50.92851",
+                "longitude": "-1.40208",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "65N": {
+                "name": "Avenue Temporary Toilets (F)",
+                "latitude": "50.92853",
+                "longitude": "-1.40216",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "65P": {
+                "name": "Avenue Temporary Facility",
+                "latitude": "50.92833",
+                "longitude": "-1.40236",
+                "year_of_completion": "",
+                "residential": false
+            }
+        }
+    },
+    "4": {
+        "name": "Winchester School of Art",
+        "buildings": {
+            "63A": {
+                "name": "East Side",
+                "latitude": "51.06581",
+                "longitude": "-1.309",
+                "year_of_completion": "1965",
+                "residential": false
+            },
+            "63F": {
+                "name": "Administration",
+                "latitude": "51.06564",
+                "longitude": "-1.30975",
+                "year_of_completion": "1999",
+                "residential": false
+            },
+            "63G": {
+                "name": "South Building",
+                "latitude": "51.06536",
+                "longitude": "-1.3099",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "63K": {
+                "name": "West Side",
+                "latitude": "51.06588",
+                "longitude": "-1.31069",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "63L": {
+                "name": "West Side Lecture Theatre",
+                "latitude": "51.06638",
+                "longitude": "-1.31024",
+                "year_of_completion": "1996",
+                "residential": false
+            },
+            "63M": {
+                "name": "Winchester Temporary Toilets (M)",
+                "latitude": "51.0652",
+                "longitude": "-1.30916",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "63N": {
+                "name": "Winchester Temporary Toilets (F)",
+                "latitude": "51.06523",
+                "longitude": "-1.3093",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "63P": {
+                "name": "Winchester Temporary Facility",
+                "latitude": "51.06506",
+                "longitude": "-1.30934",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "63Z": {
+                "name": "WSA Cycle store",
+                "latitude": "51.06527",
+                "longitude": "-1.30857",
+                "year_of_completion": "",
+                "residential": false
+            }
+        }
+    },
+    "5": {
+        "name": "The University of Southampton Science Park",
+        "buildings": {
+            "89": {
+                "name": "Chilworth Laboratories",
+                "latitude": "50.96172",
+                "longitude": "-1.42402",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "92": {
+                "name": "Alpha House",
+                "latitude": "50.96212",
+                "longitude": "-1.42543",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "125": {
+                "name": "Gamma House",
+                "latitude": "50.96145",
+                "longitude": "-1.42521",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "128": {
+                "name": "Beta House",
+                "latitude": "50.96193404",
+                "longitude": "-1.42629585",
+                "year_of_completion": "",
+                "residential": false
+            }
+        }
+    },
+    "6": {
+        "name": "National Oceanography Centre Campus",
+        "buildings": {
+            "68": {
+                "name": "National Oceanography Centre",
+                "latitude": "50.89277",
+                "longitude": "-1.39449",
+                "year_of_completion": "1995",
+                "residential": false
+            },
+            "68-A1": {
+                "name": "National Oceanography Centre - Block A1",
+                "latitude": "50.89244",
+                "longitude": "-1.39319",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "68-A6": {
+                "name": "National Oceanography Centre - Block A6",
+                "latitude": "50.89302",
+                "longitude": "-1.39676",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "68-N9": {
+                "name": "National Oceanography Centre - Block N9",
+                "latitude": "50.89182",
+                "longitude": "-1.39385",
+                "year_of_completion": "",
+                "residential": false
+            }
+        }
+    },
+    "8": {
+        "name": "Boat House",
+        "buildings": {
+            "94A": {
+                "name": "Boat House 1",
+                "latitude": "50.9345",
+                "longitude": "-1.38",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "94B": {
+                "name": "Boat House 2",
+                "latitude": "50.9346",
+                "longitude": "-1.38006",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "94C": {
+                "name": "Westsuit Drying/Store",
+                "latitude": "50.93419",
+                "longitude": "-1.38055",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "94F": {
+                "name": "Boat House Changing Rooms",
+                "latitude": "50.93419",
+                "longitude": "-1.38055",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "94H": {
+                "name": "Classroom",
+                "latitude": "50.93419",
+                "longitude": "-1.38055",
+                "year_of_completion": "",
+                "residential": false
+            }
+        }
+    },
+    "9": {
+        "name": "College Keep",
+        "buildings": {}
+    },
+    "10": {
+        "name": "University of Southampton Malaysia Campus",
+        "buildings": {
+            "193": {
+                "name": "USMC Building 1",
+                "latitude": "1.42987",
+                "longitude": "103.6122",
+                "year_of_completion": "",
+                "residential": false
+            }
+        }
+    },
+    "12": {
+        "name": "Itchen House",
+        "buildings": {
+            "126": {
+                "name": "Unit 2 The Print Centre",
+                "latitude": "",
+                "longitude": "",
+                "year_of_completion": "",
+                "residential": false
+            }
+        }
+    },
+    "18": {
+        "name": "Southampton General Hospital",
+        "buildings": {
+            "9500": {
+                "name": "South Academic Block",
+                "latitude": "50.93236",
+                "longitude": "-1.43644",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "9510": {
+                "name": "Lab & Path Block",
+                "latitude": "50.93282",
+                "longitude": "-1.4358",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "9520": {
+                "name": "West Wing",
+                "latitude": "50.9337",
+                "longitude": "-1.43556",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "9530": {
+                "name": "Centre Block",
+                "latitude": "50.93325",
+                "longitude": "-1.43439",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "9545": {
+                "name": "National Blood Service Buildng",
+                "latitude": "",
+                "longitude": "",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "9550": {
+                "name": "P/Anne Maternity Unit",
+                "latitude": "50.93534",
+                "longitude": "-1.43491",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "9555": {
+                "name": "IDS",
+                "latitude": "50.93407",
+                "longitude": "-1.43408",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "9560": {
+                "name": "Duthie",
+                "latitude": "50.93439",
+                "longitude": "-1.43434",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "9570": {
+                "name": "Tenovus",
+                "latitude": "50.93457",
+                "longitude": "-1.4338",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "9575": {
+                "name": "Southampton Centre for Cancer Immunology",
+                "latitude": "50.93416909",
+                "longitude": "-1.434820014",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "9580": {
+                "name": "Somers Cancer Research",
+                "latitude": "50.93431",
+                "longitude": "-1.43356",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "9581": {
+                "name": "MRC Building",
+                "latitude": "",
+                "longitude": "",
+                "year_of_completion": "",
+                "residential": false
+            }
+        }
+    },
+    "19": {
+        "name": "Aldermoor",
+        "buildings": {
+            "9590": {
+                "name": "Aldermoor Health Centre",
+                "latitude": "50.94033",
+                "longitude": "-1.4278",
+                "year_of_completion": "",
+                "residential": false
+            }
+        }
+    },
+    "20": {
+        "name": "Royal South Hants Hospital",
+        "buildings": {}
+    },
+    "21": {
+        "name": "North Hampshire Hospital, Basingstoke",
+        "buildings": {}
+    },
+    "22": {
+        "name": "Royal Hampshire County Hospital, Winchester",
+        "buildings": {}
+    },
+    "24": {
+        "name": "St. Mary's Hospital, Isle of Wight",
+        "buildings": {
+            "9594": {
+                "name": "St Mary's Hospital IOW, Recption & Education Block",
+                "latitude": "50.71135",
+                "longitude": "-1.30059",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "9596": {
+                "name": "St Mary's Hospital IOW, Admin Cottage",
+                "latitude": "",
+                "longitude": "",
+                "year_of_completion": "",
+                "residential": false
+            }
+        }
+    },
+    "25": {
+        "name": "Nurses' accommodation, Portsmouth",
+        "buildings": {}
+    },
+    "26": {
+        "name": "Queen Alexandra Hospital, Portsmouth",
+        "buildings": {}
+    },
+    "34": {
+        "name": "Open Data Institute",
+        "buildings": {}
+    },
+    "39": {
+        "name": "Recreation Facilities at Wide Lane",
+        "buildings": {
+            "93": {
+                "name": "New Sports Pavilion Wide Lane",
+                "latitude": "50.952265",
+                "longitude": "-1.363419",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "95": {
+                "name": "Old Sports Pavilion Wide Lane",
+                "latitude": "50.94972",
+                "longitude": "-1.36657",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "9011": {
+                "name": "Changing Room 1 Wide Lane",
+                "latitude": "50.95056",
+                "longitude": "-1.36537",
+                "year_of_completion": "",
+                "residential": false
+            },
+            "9012": {
+                "name": "Changing Room 2 Wide Lane",
+                "latitude": "50.95056",
+                "longitude": "-1.36537",
+                "year_of_completion": "",
+                "residential": false
+            }
+        }
+    },
+    "40": {
+        "name": "Bassett House",
+        "buildings": {
+            "1604": {
+                "name": "Bassett House",
+                "latitude": "50.94257",
+                "longitude": "-1.40387",
+                "year_of_completion": "",
+                "residential": false
+            }
+        }
+    },
+    "56": {
+        "name": "Highfield Hall",
+        "buildings": {
+            "75A": {
+                "name": "Highfield Hall, Aubrey House",
+                "latitude": "50.92992",
+                "longitude": "-1.40177",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "75B": {
+                "name": "Highfield Hall, Laundry",
+                "latitude": "50.92976",
+                "longitude": "-1.40173",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "75C": {
+                "name": "Highfield Hall, Wolfe House",
+                "latitude": "50.93024",
+                "longitude": "-1.40268",
+                "year_of_completion": "",
+                "residential": true
+            }
+        }
+    },
+    "57": {
+        "name": "Glen Eyre Hall",
+        "buildings": {
+            "73A": {
+                "name": "Glen Eyre Hall Block A Richard Newitt",
+                "latitude": "50.94338",
+                "longitude": "-1.40295",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73B": {
+                "name": "Glen Eyre Hall Block B Richard Newitt",
+                "latitude": "50.94341",
+                "longitude": "-1.4033",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73B1": {
+                "name": "Glen Eyre Hall Bungalow 1",
+                "latitude": "50.94415",
+                "longitude": "-1.40077",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73B2": {
+                "name": "Glen Eyre Hall Bungalow 2",
+                "latitude": "50.94409",
+                "longitude": "-1.40089",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73B3": {
+                "name": "Glen Eyre Hall Bungalow 3",
+                "latitude": "50.94405",
+                "longitude": "-1.40098",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73B4": {
+                "name": "Glen Eyre Hall Bungalow 4",
+                "latitude": "50.94405",
+                "longitude": "-1.40099",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73C": {
+                "name": "Glen Eyre Hall Block C Richard Newitt",
+                "latitude": "50.94363",
+                "longitude": "-1.40318",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73D": {
+                "name": "Glen Eyre Hall Block D Richard Newitt",
+                "latitude": "50.94392",
+                "longitude": "-1.40245",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73E": {
+                "name": "Glen Eyre Hall Block E Richard Newitt",
+                "latitude": "50.94389",
+                "longitude": "-1.40209",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73F": {
+                "name": "Glen Eyre Hall Block F Richard Newitt",
+                "latitude": "50.94367",
+                "longitude": "-1.40221",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73G": {
+                "name": "Glen Eyre Hall Block G Richard Newitt",
+                "latitude": "50.94366",
+                "longitude": "-1.40186",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73H": {
+                "name": "Glen Eyre Hall Block H Richard Newitt",
+                "latitude": "50.9441",
+                "longitude": "-1.40201",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73J": {
+                "name": "Glen Eyre Hall Block J",
+                "latitude": "50.94393",
+                "longitude": "-1.40148",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73K": {
+                "name": "Glen Eyre Hall, Chancellor's Court, Selbourne",
+                "latitude": "50.94335",
+                "longitude": "-1.40079",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73L": {
+                "name": "Glen Eyre Hall, Chancellor's Court, Jellicoe",
+                "latitude": "50.94379",
+                "longitude": "-1.40044",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73M": {
+                "name": "Glen Eyre Hall, Chancellor's Court, Roll",
+                "latitude": "50.9438",
+                "longitude": "-1.39967",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73N-A": {
+                "name": "Block A Glen Eyre Hall Old Terrace",
+                "latitude": "50.94262",
+                "longitude": "-1.40302",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73N-B": {
+                "name": "Block B Glen Eyre Hall Old Terrace",
+                "latitude": "50.94258",
+                "longitude": "-1.40295",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73N-C": {
+                "name": "Block C Glen Eyre Hall Old Terrace",
+                "latitude": "50.94254",
+                "longitude": "-1.40288",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73N-D": {
+                "name": "Block D Glen Eyre Hall Old Terrace",
+                "latitude": "50.9425",
+                "longitude": "-1.40281",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73N-E": {
+                "name": "Block E Glen Eyre Hall Old Terrace",
+                "latitude": "50.94245",
+                "longitude": "-1.40273",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73N-F": {
+                "name": "Block F Glen Eyre Hall Old Terrace",
+                "latitude": "50.94242",
+                "longitude": "-1.40267",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73N-G": {
+                "name": "Block G Glen Eyre Hall Old Terrace",
+                "latitude": "50.94238",
+                "longitude": "-1.4026",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73N-H": {
+                "name": "Block H Glen Eyre Hall Old Terrace",
+                "latitude": "50.94233",
+                "longitude": "-1.40252",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73N-J": {
+                "name": "Block J Glen Eyre Hall Old Terrace",
+                "latitude": "50.94229",
+                "longitude": "-1.40246",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73N-K": {
+                "name": "Block K Glen Eyre Hall Old Terrace",
+                "latitude": "50.94262",
+                "longitude": "-1.4028",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73N-Z": {
+                "name": "Glen Eyre Old Terrace cycle store",
+                "latitude": "50.94266",
+                "longitude": "-1.40308",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73Q1": {
+                "name": "Glen Eyre Hall Main Building",
+                "latitude": "50.94396",
+                "longitude": "-1.40297",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73Q2": {
+                "name": "Glen Eyre Hall Dining Hall",
+                "latitude": "50.94385",
+                "longitude": "-1.40287",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73S": {
+                "name": "Glen Eyre Hall Squash Court",
+                "latitude": "50.94411",
+                "longitude": "-1.40133",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73T": {
+                "name": "Glen Eyre Hall Brunei House",
+                "latitude": "50.94316",
+                "longitude": "-1.39938",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73W": {
+                "name": "Glen Eyre Hall Block W Richard Newitt",
+                "latitude": "50.94319",
+                "longitude": "-1.40307",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73X-Q": {
+                "name": "Block Q Glen Eyre Hall New Terrace",
+                "latitude": "50.94298",
+                "longitude": "-1.40266",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73X-R": {
+                "name": "Block R Glen Eyre Hall New Terrace",
+                "latitude": "50.94292",
+                "longitude": "-1.40231",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73X-S": {
+                "name": "Block S Glen Eyre Hall New Terrace",
+                "latitude": "50.94273",
+                "longitude": "-1.40215",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73X-T": {
+                "name": "Block T Glen Eyre Hall New Terrace",
+                "latitude": "50.9425",
+                "longitude": "-1.40216",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73Y": {
+                "name": "Glen Eyre Fitness suite Cycle store",
+                "latitude": "50.9442",
+                "longitude": "-1.40148",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "73Z": {
+                "name": "Glen Eyre Laundry",
+                "latitude": "50.94412",
+                "longitude": "-1.40128",
+                "year_of_completion": "",
+                "residential": true
+            }
+        }
+    },
+    "58": {
+        "name": "South Hill Hall",
+        "buildings": {
+            "70AA": {
+                "name": "South Hill A",
+                "latitude": "50.94162",
+                "longitude": "-1.4025",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "70BB": {
+                "name": "South Hill B",
+                "latitude": "50.94144",
+                "longitude": "-1.40192",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "70CC": {
+                "name": "South Hill C",
+                "latitude": "50.94127",
+                "longitude": "-1.40244",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "70DD": {
+                "name": "South Hill Cycle store 1",
+                "latitude": "50.94127",
+                "longitude": "-1.40281",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "70EE": {
+                "name": "South Hill Cycle store 2",
+                "latitude": "",
+                "longitude": "",
+                "year_of_completion": "",
+                "residential": true
+            }
+        }
+    },
+    "59": {
+        "name": "Chamberlain Hall",
+        "buildings": {
+            "200": {
+                "name": "Chamberlain Hall Block A",
+                "latitude": "50.94192",
+                "longitude": "-1.40344",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "201": {
+                "name": "Chamberlain Hall Block B",
+                "latitude": "50.94186",
+                "longitude": "-1.4031",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "202": {
+                "name": "Chamberlain Hall Block C",
+                "latitude": "50.9415",
+                "longitude": "-1.40309",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "203": {
+                "name": "Chamberlain Hall Block D",
+                "latitude": "50.94121",
+                "longitude": "-1.40334",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "204": {
+                "name": "Chamberlain Hall Block E",
+                "latitude": "50.9414",
+                "longitude": "-1.40356",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "211": {
+                "name": "Chamberlain Hall Cycle Store",
+                "latitude": "",
+                "longitude": "",
+                "year_of_completion": "",
+                "residential": false
+            }
+        }
+    },
+    "60": {
+        "name": "Hartley Grove",
+        "buildings": {
+            "79A": {
+                "name": "Hartley Grove A",
+                "latitude": "50.94086",
+                "longitude": "-1.40241",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "79B": {
+                "name": "Hartley Grove B",
+                "latitude": "50.94042",
+                "longitude": "-1.40188",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "79C": {
+                "name": "Hartley Grove C",
+                "latitude": "50.94062",
+                "longitude": "-1.40137",
+                "year_of_completion": "",
+                "residential": true
+            }
+        }
+    },
+    "61": {
+        "name": "Beechmount",
+        "buildings": {
+            "73R": {
+                "name": "Beechmount House",
+                "latitude": "50.94345",
+                "longitude": "-1.40463",
+                "year_of_completion": "",
+                "residential": true
+            }
+        }
+    },
+    "63": {
+        "name": "Connaught Hall",
+        "buildings": {
+            "72A": {
+                "name": "Connaught A (Old Quad)",
+                "latitude": "50.93779",
+                "longitude": "-1.37447",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72B": {
+                "name": "Connaught B (Old Quad)",
+                "latitude": "50.93722",
+                "longitude": "-1.37507",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72C": {
+                "name": "Connaught C (Old Quad)",
+                "latitude": "50.93757",
+                "longitude": "-1.37432",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72D": {
+                "name": "Connaught D (Old Quad)",
+                "latitude": "50.93738",
+                "longitude": "-1.37443",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72E": {
+                "name": "Connaught E (Old Quad)",
+                "latitude": "50.93734",
+                "longitude": "-1.37466",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72F": {
+                "name": "Connaught F (Old Quad)",
+                "latitude": "50.93726",
+                "longitude": "-1.37487",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72G": {
+                "name": "Connaught G (Old Quad)",
+                "latitude": "50.93742",
+                "longitude": "-1.3741",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72H": {
+                "name": "Connaught H (Old Quad)",
+                "latitude": "50.93744",
+                "longitude": "-1.37523",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72J": {
+                "name": "Connaught J (New Quad)",
+                "latitude": "50.93755",
+                "longitude": "-1.37532",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72K": {
+                "name": "Connaught K (New Quad)",
+                "latitude": "50.93781",
+                "longitude": "-1.37499",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72L": {
+                "name": "Connaught L (New Quad)",
+                "latitude": "50.93793",
+                "longitude": "-1.37508",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72M": {
+                "name": "Connaught M (New Quad)",
+                "latitude": "50.93845",
+                "longitude": "-1.37549",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72N": {
+                "name": "Connaught N (New Quad)",
+                "latitude": "50.93853",
+                "longitude": "-1.37519",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72P": {
+                "name": "Connaught P (New Quad)",
+                "latitude": "50.93861",
+                "longitude": "-1.37491",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72Q": {
+                "name": "Connaught Q (New Quad)",
+                "latitude": "50.93846",
+                "longitude": "-1.37457",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72R": {
+                "name": "Connaught R (New Quad)",
+                "latitude": "50.93818",
+                "longitude": "-1.37437",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72S": {
+                "name": "Connaught S (New Quad)",
+                "latitude": "50.93859",
+                "longitude": "-1.37555",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72U": {
+                "name": "Connaught Hall Cycle store",
+                "latitude": "50.93801",
+                "longitude": "-1.37565",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72V": {
+                "name": "Connaught Hall/Lobby/Laundry",
+                "latitude": "50.93796",
+                "longitude": "-1.37494",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72W": {
+                "name": "Connaught Hall Dining Room",
+                "latitude": "50.93819",
+                "longitude": "-1.37535",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72Y": {
+                "name": "Connaught Hall, The Bungalow",
+                "latitude": "50.93744",
+                "longitude": "-1.37409",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "72Z": {
+                "name": "Connaught Hall Gym",
+                "latitude": "50.93721",
+                "longitude": "-1.37508",
+                "year_of_completion": "",
+                "residential": true
+            }
+        }
+    },
+    "64": {
+        "name": "Montefiore Hall",
+        "buildings": {
+            "76A": {
+                "name": "Montefiore Hall Block A",
+                "latitude": "50.93733",
+                "longitude": "-1.37838",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76B": {
+                "name": "Montefiore Hall Block B",
+                "latitude": "50.93765",
+                "longitude": "-1.37778",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76C": {
+                "name": "Montefiore Hall Block C",
+                "latitude": "50.93766",
+                "longitude": "-1.37705",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76D": {
+                "name": "Montefiore Hall Block D",
+                "latitude": "50.93773",
+                "longitude": "-1.3767",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76E": {
+                "name": "Montefiore Hall Block E",
+                "latitude": "50.93786",
+                "longitude": "-1.37615",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76F": {
+                "name": "Montefiore Hall Block F",
+                "latitude": "50.93803",
+                "longitude": "-1.37728",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76G": {
+                "name": "Montefiore Hall Block G",
+                "latitude": "50.93811",
+                "longitude": "-1.37693",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76H": {
+                "name": "Montefiore Hall Block H",
+                "latitude": "50.93823",
+                "longitude": "-1.37633",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76J": {
+                "name": "Montefiore Hall Block J",
+                "latitude": "50.93833",
+                "longitude": "-1.37753",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76K": {
+                "name": "Montefiore Hall Block K",
+                "latitude": "50.93847",
+                "longitude": "-1.37688",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76L": {
+                "name": "Montefiore Hall Block L",
+                "latitude": "50.93862",
+                "longitude": "-1.37628",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76M": {
+                "name": "Montefiore Hall Block M",
+                "latitude": "50.9386",
+                "longitude": "-1.37734",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76N": {
+                "name": "Montefiore Hall Block N",
+                "latitude": "50.93876",
+                "longitude": "-1.37672",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76P": {
+                "name": "Montefiore Hall Block P",
+                "latitude": "50.93886",
+                "longitude": "-1.37716",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76Q": {
+                "name": "Montefiore Hall Block Q",
+                "latitude": "50.93902",
+                "longitude": "-1.37651",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76R": {
+                "name": "Montefiore Hall Block R",
+                "latitude": "50.93914",
+                "longitude": "-1.37695",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76S": {
+                "name": "Montefiore Hall Block S",
+                "latitude": "50.93927",
+                "longitude": "-1.37632",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76SC": {
+                "name": "Montefiore Hall Social Centre",
+                "latitude": "50.93805",
+                "longitude": "-1.37806",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76T": {
+                "name": "Montefiore Hall Block T",
+                "latitude": "50.93941",
+                "longitude": "-1.37677",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76U": {
+                "name": "Montefiore Hall Laundry",
+                "latitude": "50.93832",
+                "longitude": "-1.37807",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76V": {
+                "name": "Montefiore Hall Block V",
+                "latitude": "50.93755",
+                "longitude": "-1.37812",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76W": {
+                "name": "Montefiore Hall Block W",
+                "latitude": "50.93728",
+                "longitude": "-1.37797",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76X": {
+                "name": "Montefiore Hall Block X",
+                "latitude": "50.937",
+                "longitude": "-1.37845",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "76Z": {
+                "name": "Montefiore Hall - Reception",
+                "latitude": "50.93745",
+                "longitude": "-1.37697",
+                "year_of_completion": "",
+                "residential": true
+            }
+        }
+    },
+    "65": {
+        "name": "Stoneham Hall",
+        "buildings": {
+            "76Y": {
+                "name": "Montefiore Cycle Store",
+                "latitude": "50.93713",
+                "longitude": "-1.37798",
+                "year_of_completion": "",
+                "residential": true
+            }
+        }
+    },
+    "67": {
+        "name": "Gateley",
+        "buildings": {
+            "82A": {
+                "name": "Gateley Hall",
+                "latitude": "50.917",
+                "longitude": "-1.40758",
+                "year_of_completion": "",
+                "residential": true
+            }
+        }
+    },
+    "68": {
+        "name": "Romero",
+        "buildings": {
+            "82B": {
+                "name": "Romero Hall",
+                "latitude": "50.91574",
+                "longitude": "-1.40977",
+                "year_of_completion": "",
+                "residential": true
+            }
+        }
+    },
+    "70": {
+        "name": "Erasmus Park",
+        "buildings": {
+            "1730": {
+                "name": "Erasmus Park",
+                "latitude": "51.06793",
+                "longitude": "-1.30042",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-01": {
+                "name": "Erasmus - House 01",
+                "latitude": "51.06799",
+                "longitude": "-1.30044",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-02": {
+                "name": "Erasmus - House 02",
+                "latitude": "51.06804",
+                "longitude": "-1.30049",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-03": {
+                "name": "Erasmus - House 03",
+                "latitude": "51.06817",
+                "longitude": "-1.30049",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-04": {
+                "name": "Erasmus - House 04",
+                "latitude": "51.0682",
+                "longitude": "-1.30049",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-05": {
+                "name": "Erasmus - House 05",
+                "latitude": "51.06883",
+                "longitude": "-1.30048",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-06": {
+                "name": "Erasmus - House 06",
+                "latitude": "51.06826",
+                "longitude": "-1.30048",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-07": {
+                "name": "Erasmus - House 07",
+                "latitude": "51.06829",
+                "longitude": "-1.30049",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-08": {
+                "name": "Erasmus - House 08",
+                "latitude": "51.06833",
+                "longitude": "-1.30049",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-09": {
+                "name": "Erasmus - House 09",
+                "latitude": "51.06839",
+                "longitude": "-1.30049",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-10": {
+                "name": "Erasmus - House 10",
+                "latitude": "51.06846",
+                "longitude": "-1.30046",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-11": {
+                "name": "Erasmus - House 11",
+                "latitude": "51.06852",
+                "longitude": "-1.30044",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-12": {
+                "name": "Erasmus - House 12",
+                "latitude": "51.06857",
+                "longitude": "-1.30043",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-13": {
+                "name": "Erasmus - House 13",
+                "latitude": "51.06862",
+                "longitude": "-1.3004",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-14": {
+                "name": "Erasmus - House 14",
+                "latitude": "51.06866",
+                "longitude": "-1.30039",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-15": {
+                "name": "Erasmus - House 15",
+                "latitude": "51.06871",
+                "longitude": "-1.30036",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-16": {
+                "name": "Erasmus - House 16",
+                "latitude": "51.06877",
+                "longitude": "-1.30035",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-17": {
+                "name": "Erasmus - House 17",
+                "latitude": "51.06887",
+                "longitude": "-1.30029",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-18": {
+                "name": "Erasmus - House 18",
+                "latitude": "51.06887",
+                "longitude": "-1.30029",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-19": {
+                "name": "Erasmus - Flat 19",
+                "latitude": "51.06882",
+                "longitude": "-1.30005",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-20": {
+                "name": "Erasmus - Flat 20",
+                "latitude": "51.06888",
+                "longitude": "-1.30003",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-21": {
+                "name": "Erasmus - Flat 21",
+                "latitude": "51.06891",
+                "longitude": "-1.30002",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-22": {
+                "name": "Erasmus - Flat 22",
+                "latitude": "51.06895",
+                "longitude": "-1.30001",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-23": {
+                "name": "Erasmus - Flat 23",
+                "latitude": "51.06899",
+                "longitude": "-1.30001",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-24": {
+                "name": "Erasmus - Flat 24",
+                "latitude": "51.06906",
+                "longitude": "-1.29995",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-25": {
+                "name": "Erasmus - Flat 25",
+                "latitude": "51.06911",
+                "longitude": "-1.29994",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-26": {
+                "name": "Erasmus - Flat 26",
+                "latitude": "51.06913",
+                "longitude": "-1.29993",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-27": {
+                "name": "Erasmus - Flat 27",
+                "latitude": "51.06917",
+                "longitude": "-1.2999",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-28": {
+                "name": "Erasmus - Flat 28",
+                "latitude": "51.06921",
+                "longitude": "-1.29989",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-29": {
+                "name": "Erasmus - Flat 29",
+                "latitude": "51.06924",
+                "longitude": "-1.29987",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-30": {
+                "name": "Erasmus - Flat 30",
+                "latitude": "51.06929",
+                "longitude": "-1.29986",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-31": {
+                "name": "Erasmus - Flat 31",
+                "latitude": "51.06933",
+                "longitude": "-1.29985",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-32": {
+                "name": "Erasmus - Flat 32",
+                "latitude": "51.06933",
+                "longitude": "-1.29984",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-33": {
+                "name": "Erasmus - Flat 33",
+                "latitude": "51.06936",
+                "longitude": "-1.2998",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-34": {
+                "name": "Erasmus - Flat 34",
+                "latitude": "51.06939",
+                "longitude": "-1.29979",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-35": {
+                "name": "Erasmus - Flat 35",
+                "latitude": "51.06941",
+                "longitude": "-1.29978",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-36": {
+                "name": "Erasmus - Flat 36",
+                "latitude": "51.06944",
+                "longitude": "-1.29977",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-37": {
+                "name": "Erasmus - Flat 37",
+                "latitude": "51.06946",
+                "longitude": "-1.29976",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-38": {
+                "name": "Erasmus - Flat 38",
+                "latitude": "51.0695",
+                "longitude": "-1.29974",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-39": {
+                "name": "Erasmus - Flat 39",
+                "latitude": "51.06953",
+                "longitude": "-1.29973",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-40": {
+                "name": "Erasmus - Flat 40",
+                "latitude": "51.06957",
+                "longitude": "-1.29972",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-41": {
+                "name": "Erasmus - Flat 41",
+                "latitude": "51.0696",
+                "longitude": "-1.29969",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "1730-42": {
+                "name": "Erasmus - Flat 42",
+                "latitude": "51.06962",
+                "longitude": "-1.29966",
+                "year_of_completion": "",
+                "residential": true
+            }
+        }
+    },
+    "80": {
+        "name": "City Gateway",
+        "buildings": {
+            "168": {
+                "name": "City Gateway A",
+                "latitude": "50.94",
+                "longitude": "-1.37864",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "169": {
+                "name": "City Gateway B",
+                "latitude": "50.94007",
+                "longitude": "-1.37836",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "170": {
+                "name": "City Gateway C",
+                "latitude": "50.94012",
+                "longitude": "-1.37807",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "171": {
+                "name": "City Gateway D",
+                "latitude": "50.93996",
+                "longitude": "-1.37804",
+                "year_of_completion": "",
+                "residential": true
+            }
+        }
+    },
+    "81": {
+        "name": "Mayflower Halls",
+        "buildings": {
+            "146": {
+                "name": "Mayflower A",
+                "latitude": "50.90861",
+                "longitude": "-1.40881",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "147": {
+                "name": "Mayflower B",
+                "latitude": "50.90823",
+                "longitude": "-1.40958",
+                "year_of_completion": "",
+                "residential": true
+            },
+            "148": {
+                "name": "Mayflower C",
+                "latitude": "50.9087",
+                "longitude": "-1.40963",
+                "year_of_completion": "",
+                "residential": true
+            }
+        }
+    }
+}
