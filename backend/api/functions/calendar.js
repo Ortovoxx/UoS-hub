@@ -11,7 +11,7 @@ const fetchCalender = async (iCal) => {
         return {
             start: start,
             end: end,
-            lengthMs: end.getTime() - start.getTime(),
+            length_ms: end.getTime() - start.getTime(),
             summary: i.summary,
             location: i.location,
         }
