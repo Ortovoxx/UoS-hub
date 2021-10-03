@@ -48,6 +48,12 @@ app.use((req, res, next) => {
 // routes
 app.use('/api/v1', indexRoutes);
 
+app.get('/', (req, res) => {
+    res.status(200).json({
+        status: 'success',
+    });
+})
+
 // handling all (get,post,update,delete.....) unhandled routes
 app.all('*', (req, res, next) => {
 	next(new Error(`Can't find ${req.originalUrl} on the server`, 404));

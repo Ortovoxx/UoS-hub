@@ -9,7 +9,7 @@ DBConnect();
 // server
 const port = PORT || 7000;
 const server = app.listen(port, () => {
-	console.log(`App is running on port ${port}`);
+	console.log(`App is running on http://localhost:${port}`);
 });
 
 // handle Globaly  the unhandle Rejection Error which is  outside the express
