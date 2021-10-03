@@ -107,6 +107,7 @@
     </ItemGroup>
     <ItemGroup>
         <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
+        <PackageReference Include="Xamarin.Plugin.Calendar" Version="1.4.5304" />
         <PackageReference Include="XF.Material" Version="1.7.8" />
     </ItemGroup>
     <ItemGroup>
@@ -114,6 +115,32 @@
             <Project>{1B772A81-173D-40C7-878F-EE85CCC88AC4}</Project>
             <Name>UoS_Hub</Name>
         </ProjectReference>
+    </ItemGroup>
+    <ItemGroup>
+      <BundleResource Include="Resources\xf_arrow_dropdown.png" />
+      <BundleResource Include="Resources\xf_arrow_dropdown@2x.png" />
+      <BundleResource Include="Resources\xf_arrow_dropdown@3x.png" />
+      <BundleResource Include="Resources\xf_arrow_right.png" />
+      <BundleResource Include="Resources\xf_arrow_right@2x.png" />
+      <BundleResource Include="Resources\xf_arrow_right@3x.png" />
+      <BundleResource Include="Resources\xf_checkbox_selected.png" />
+      <BundleResource Include="Resources\xf_checkbox_selected@2x.png" />
+      <BundleResource Include="Resources\xf_checkbox_selected@3x.png" />
+      <BundleResource Include="Resources\xf_checkbox_unselected.png" />
+      <BundleResource Include="Resources\xf_checkbox_unselected@2x.png" />
+      <BundleResource Include="Resources\xf_checkbox_unselected@3x.png" />
+      <BundleResource Include="Resources\xf_clear.png" />
+      <BundleResource Include="Resources\xf_clear@2x.png" />
+      <BundleResource Include="Resources\xf_clear@3x.png" />
+      <BundleResource Include="Resources\xf_error.png" />
+      <BundleResource Include="Resources\xf_error@2x.png" />
+      <BundleResource Include="Resources\xf_error@3x.png" />
+      <BundleResource Include="Resources\xf_radio_button_selected.png" />
+      <BundleResource Include="Resources\xf_radio_button_selected@2x.png" />
+      <BundleResource Include="Resources\xf_radio_button_selected@3x.png" />
+      <BundleResource Include="Resources\xf_radio_button_unselected.png" />
+      <BundleResource Include="Resources\xf_radio_button_unselected@2x.png" />
+      <BundleResource Include="Resources\xf_radio_button_unselected@3x.png" />
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>

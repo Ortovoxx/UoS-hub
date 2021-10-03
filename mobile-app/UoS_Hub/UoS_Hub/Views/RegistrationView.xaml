@@ -2,12 +2,61 @@
 
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:material="clr-namespace:XF.Material.Forms.UI;assembly=XF.Material"
              x:Class="UoS_Hub.Views.RegistrationView">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Hello, world!"
-                   VerticalOptions="CenterAndExpand"
-                   HorizontalOptions="CenterAndExpand" />
+        <StackLayout 
+            Orientation="Vertical"
+            HorizontalOptions="Center"
+            Padding="0, 20, 0, 0"
+            VerticalOptions="StartAndExpand">
+            
+            <StackLayout Orientation="Vertical"
+                         Padding="10, 0"
+                         HorizontalOptions="Center"
+                         VerticalOptions="Center">
+                
+                <material:MaterialTextField 
+                    Placeholder="Your Name"
+                    HelperText="Enter your name"
+                    InputType="Plain"
+                    Text="{Binding Tag}"/>
+                
+                <material:MaterialTextField 
+                    Placeholder="Your Tag"
+                    HelperText="Enter your email nickname (xxx@soton.ac.uk)"
+                    InputType="Plain"
+                    Text="{Binding Tag}"/>
+                
+                <material:MaterialTextField 
+                    Placeholder="Your hall"
+                    HelperText="Enter your hall"
+                    InputType="Plain"
+                    Text="{Binding Hall}"/>
+                
+                <material:MaterialTextField 
+                    Placeholder="Your iCal Link"
+                    HelperText="Enter your Your iCal Link"
+                    InputType="Plain"
+                    Text="{Binding iCal}"/>
+                
+                <StackLayout>
+                    <material:MaterialLabel Text="Choose your school"/>
+                    <material:MaterialRadioButtonGroup 
+                        SelectedIndex="{Binding SchoolIndex}"
+                        Choices="{Binding Schools}" />                    
+                </StackLayout>
+                
+                <material:MaterialButton 
+                    Text="Register"
+                    ButtonType="Elevated"
+                    Command="{Binding RegisterCommand}"/>
+                
+                <material:MaterialButton 
+                    Text="Go Back"
+                    ButtonType="Outlined"
+                    Command="{Binding BackCommand}"/>
+            </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

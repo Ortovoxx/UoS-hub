@@ -21,10 +21,6 @@
                     InputType="Plain"
                     Text="{Binding Tag}"/>
                 
-                <material:MaterialTextField 
-                    Placeholder="Your password"
-                    InputType="Password"
-                    Text="{Binding Password}"/>
                 <material:MaterialButton 
                     Text="Login"
                     ButtonType="Elevated"

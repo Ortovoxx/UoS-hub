@@ -11,7 +11,8 @@
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "XF.Material": "1.7.8",
-          "Xamarin.Forms": "5.0.0.2012"
+          "Xamarin.Forms": "5.0.0.2012",
+          "Xamarin.Plugin.Calendar": "1.4.5304"
         },
         "runtime": {
           "UoS_Hub.dll": {}
@@ -77,6 +78,17 @@
           "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
             "assemblyVersion": "2.0.0.0",
             "fileVersion": "5.0.0.671"
+          }
+        }
+      },
+      "Xamarin.Plugin.Calendar/1.4.5304": {
+        "dependencies": {
+          "Xamarin.Forms": "5.0.0.2012"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Plugin.Calendar.dll": {
+            "assemblyVersion": "1.4.5304.0",
+            "fileVersion": "1.4.5304.0"
           }
         }
       },
@@ -150,6 +162,13 @@
       "sha512": "sha512-Rqc6xvWR/sf+Db5+qRCFmuYTWVp04QWRfwPto2/JHbShSy4Ed53Q2jpoFzsoloXkJA6saD236PlaWAhT6vI4gw==",
       "path": "xamarin.forms/5.0.0.2012",
       "hashPath": "xamarin.forms.5.0.0.2012.nupkg.sha512"
+    },
+    "Xamarin.Plugin.Calendar/1.4.5304": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XsPRz4Kp1m3zIcClrWqtZd/tVETNQ7xXY/kEWTCPtd3SpOSIxV4TUD+xxJSm6MBwicoKc9TMad55/wUYDoE1aQ==",
+      "path": "xamarin.plugin.calendar/1.4.5304",
+      "hashPath": "xamarin.plugin.calendar.1.4.5304.nupkg.sha512"
     },
     "XF.Material/1.7.8": {
       "type": "package",

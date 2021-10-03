@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Y62qwPuUC82802jZBblrnH4k9KvyBPm5giO+VT8JtNxqce7ppwah0xgxg5s8biyfFtKY5TamKMl6qNIh9S3llw==",
+  "dgSpecHash": "zm/FunSLb7Tco67LJxUVc+GWjgSE3GYinwiiFzKrJAy70y4kvM7iN7pCqbKOFLvZNy9PrFT5KsbBWtOMSYP2lg==",
   "success": true,
   "projectFilePath": "/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.Android/UoS_Hub.Android.csproj",
   "expectedPackageFiles": [
@@ -57,6 +57,7 @@
     "/Users/skymanone/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512",
     "/Users/skymanone/.nuget/packages/xamarin.google.android.material/1.2.1.1/xamarin.google.android.material.1.2.1.1.nupkg.sha512",
     "/Users/skymanone/.nuget/packages/xamarin.google.guava.listenablefuture/1.0.0.2/xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512",
+    "/Users/skymanone/.nuget/packages/xamarin.plugin.calendar/1.4.5304/xamarin.plugin.calendar.1.4.5304.nupkg.sha512",
     "/Users/skymanone/.nuget/packages/xf.material/1.7.8/xf.material.1.7.8.nupkg.sha512"
   ],
   "logs": []

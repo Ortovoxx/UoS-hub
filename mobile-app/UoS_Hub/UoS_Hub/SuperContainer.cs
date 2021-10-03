@@ -1,6 +1,7 @@
 using System;
 using TinyIoC;
 using UoS_Hub.Services.Navigation;
+using UoS_Hub.Services.Network;
 using UoS_Hub.Services.UserConfigManager;
 using UoS_Hub.ViewModels;
 using Xamarin.Forms;
@@ -25,6 +26,7 @@ namespace UoS_Hub
         public static void UpdateDependencies(bool useMocks)
         {
             Container.Register<IUserConfigManager, UserConfigManager>();
+            Container.Register<INetworkService, NetworkService>();
         }
         
         public static T Resolve<T>() where T : class

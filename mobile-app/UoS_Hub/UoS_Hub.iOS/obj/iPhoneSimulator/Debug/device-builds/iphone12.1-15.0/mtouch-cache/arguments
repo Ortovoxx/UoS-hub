@@ -208,6 +208,7 @@
 	--reference=/Users/skymanone/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll \
 	--reference=/Users/skymanone/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll \
 	--reference=/Users/skymanone/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll \
+	--reference=/Users/skymanone/.nuget/packages/xamarin.plugin.calendar/1.4.5304/lib/xamarinios10/Xamarin.Plugin.Calendar.dll \
 	--reference=/Users/skymanone/.nuget/packages/xf.material/1.7.8/lib/xamarinios10/XF.Material.dll \
 	--reference=/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/bin/Debug/netstandard2.0/UoS_Hub.dll \
 	@/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/response-file.rsp \

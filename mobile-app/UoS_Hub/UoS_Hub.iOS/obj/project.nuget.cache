@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dRq4XAbtOqisyGtC23G5jEI+i9l2AC6bEtungacu251erMHa8SOyspVH/pPiZAtuU5U75LhT97ySbUv6piA4cQ==",
+  "dgSpecHash": "q2qxrubG6qn0HpEl1xFpYYA9GciJBc6ZVr0I7Jh4dxsGP/OKz2Kazvm7WjdeS/2fKL8wrAyj7f+wxa6IR3UthA==",
   "success": true,
   "projectFilePath": "/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/UoS_Hub.iOS.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "/Users/skymanone/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/skymanone/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
     "/Users/skymanone/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "/Users/skymanone/.nuget/packages/xamarin.plugin.calendar/1.4.5304/xamarin.plugin.calendar.1.4.5304.nupkg.sha512",
     "/Users/skymanone/.nuget/packages/xf.material/1.7.8/xf.material.1.7.8.nupkg.sha512"
   ],
   "logs": []
