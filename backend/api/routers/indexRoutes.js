@@ -6,6 +6,8 @@ const router = express.Router();
 
 router.route('/timetable').get(timetableController.fetch);
 
+router.route('/users/').get(userController.getAllUsers);
 router.route('/users/register').post(userController.createUser);
+
 
 module.exports = router;
