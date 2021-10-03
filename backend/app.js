@@ -15,7 +15,6 @@ const { NODE_ENV } = require('./config');
 
 app.use(express.json());
 
-// set security http headers
 app.use(helmet());
 
 if (NODE_ENV === 'development') {
