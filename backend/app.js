@@ -57,4 +57,8 @@ app.all('*', (req, res, next) => {
 // error handling middleware
 app.use(globalErrorHandler);
 
+app.get('/', (req, res) => {
+	res.send('Hello, Vercel!')
+})
+
 module.exports = app;
