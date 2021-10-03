@@ -22,7 +22,6 @@ exports.createUser = catchAsync(async (req, res, next) => {
 		},
 		hall: req.body.hall,
 		school: req.body.school,
-		soton_id: req.body.soton_id,
 	});
 
 	// SEND RESPONSE

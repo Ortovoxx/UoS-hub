@@ -23,7 +23,6 @@ const userSchema = new mongoose.Schema({
 	},
 	hall: String,
 	school: String,
-	soton_id: Number,
 });
 
 const User = mongoose.model('User', userSchema);
