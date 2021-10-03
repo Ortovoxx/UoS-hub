@@ -10,7 +10,8 @@ router.route('/timetable').get(timetableController.fetch);
 router.route('/users/').get(userController.getAllUsers);
 router.route('/users/register').post(userController.createUser);
 
-router.route('/buildings/').get(buildingsController.getAllBuildings);
+router.route('/buildings/').get(buildingsController.getAllSites);
+router.route('/buildings/:site').get(buildingsController.getBuildingBySite);
 
 
 module.exports = router;
