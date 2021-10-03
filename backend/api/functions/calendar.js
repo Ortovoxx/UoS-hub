@@ -17,8 +17,6 @@ const fetchCalender = async (iCal) => {
         }
     });
 
-    console.log(events);
-
     return events;
 }
 
