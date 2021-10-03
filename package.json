@@ -1,0 +1,7 @@
+{
+    "name": "uos-hub-main",
+    "version": "1",
+    "scripts": {
+        "postinstall": "npm install --prefix backend"
+    }
+}
