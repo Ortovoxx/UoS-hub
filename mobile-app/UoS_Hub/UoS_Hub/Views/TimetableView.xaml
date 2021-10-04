@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:plugin="clr-namespace:Xamarin.Plugin.Calendar.Controls;assembly=Xamarin.Plugin.Calendar"
+             xmlns:material="clr-namespace:XF.Material.Forms.UI;assembly=XF.Material"
+             Title="Timetable"
+             x:Class="UoS_Hub.Views.TimetableView">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Command="{Binding TodayCommand}" Text="Today" />
+    </ContentPage.ToolbarItems>    
+    <ContentPage.Content>
+    <plugin:Calendar Events="{Binding Lectures}"
+                     MaximumDate="{Binding MaximumDate}"
+                     MinimumDate="{Binding MinimumDate}"
+                     Month="{Binding Month}"
+                     SelectedDate="{Binding SelectedDate}"
+                     VerticalOptions="FillAndExpand"
+                     HorizontalOptions="FillAndExpand"
+                     Year="{Binding Year}"
+                     Padding="10, 20">
+            <plugin:Calendar.EventTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="15, 0, 0, 10">
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding TappedCommand}" />
+                        </StackLayout.GestureRecognizers>
+                        <material:MaterialLabel Text="{Binding Summary}"
+                                                FontAttributes="Bold"
+                                                FontSize="Medium" />
+                        <material:MaterialChip
+                            HorizontalOptions="FillAndExpand"
+                            Text="{Binding Location}"
+                            TextColor="White"
+                            BackgroundColor="#546E7A" />
+                        <material:MaterialLabel Text="{Binding Duration}"
+                                                FontSize="Medium" />
+                        <BoxView Color="LightGray" HeightRequest="2"/>
+                    </StackLayout>
+                </DataTemplate>
+            </plugin:Calendar.EventTemplate>
+            <plugin:Calendar.EmptyTemplate>
+                <DataTemplate>
+                    <material:MaterialLabel Text="No lectures on this day!" />
+                </DataTemplate>
+            </plugin:Calendar.EmptyTemplate>
+        </plugin:Calendar>
+    </ContentPage.Content>
+</ContentPage>

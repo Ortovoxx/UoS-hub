@@ -16,3 +16,4 @@
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/Views/MainView.xaml.g.cs
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/Views/MapNavView.xaml.g.cs
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/Views/RegistrationView.xaml.g.cs
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub/obj/Debug/netstandard2.0/Views/TimetableView.xaml.g.cs

@@ -90,3 +90,14 @@
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/optimized/xf_radio_button_unselected.png
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/optimized/xf_radio_button_unselected@2x.png
 /Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-15.0/optimized/xf_radio_button_unselected@3x.png
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/SQLiteNetExtensions.dll
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/SQLiteNetExtensions.pdb
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.nativelibrary.dll
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/System.Buffers.dll
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/System.Memory.dll
+/Users/skymanone/Projects/UoS-hub/mobile-app/UoS_Hub/UoS_Hub.iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll

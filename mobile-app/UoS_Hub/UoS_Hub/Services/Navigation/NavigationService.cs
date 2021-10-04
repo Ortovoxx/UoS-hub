@@ -44,7 +44,7 @@ namespace UoS_Hub.Services.Navigation
                 var tabs = await ResolveNavigation(new List<Type>()
                 {
                     typeof(MainViewModel),
-                    typeof(LoginViewModel)
+                    typeof(TimetableViewModel)
 
                 });
 

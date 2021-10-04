@@ -1,5 +1,9 @@
 using System;
+using System.Threading.Tasks;
 using TinyIoC;
+using UoS_Hub.Models;
+using UoS_Hub.Services.Database;
+using UoS_Hub.Services.Database.Repositories;
 using UoS_Hub.Services.Navigation;
 using UoS_Hub.Services.Network;
 using UoS_Hub.Services.UserConfigManager;
@@ -19,6 +23,7 @@ namespace UoS_Hub
             Container.Register<LoginViewModel>();
             Container.Register<RegistrationViewModel>();
             Container.Register<MainNavigationViewModel>();
+            Container.Register<TimetableViewModel>();
             
             Container.Register<INavigationService, NavigationService>();
         }
@@ -27,6 +32,20 @@ namespace UoS_Hub
         {
             Container.Register<IUserConfigManager, UserConfigManager>();
             Container.Register<INetworkService, NetworkService>();
+            Container.Register<IRepository<User>, UserRepository>();
+            
+            Container.Register<DbConnection>(((c, o) =>
+            {
+                var dbConnection = new DbConnection();
+                Task.Run(async () =>
+                {
+                    //init the db connection
+                    //check the table mappings
+                    //and open the connections lazily
+                    await dbConnection.Init();
+                });
+                return dbConnection;
+            }));
         }
         
         public static T Resolve<T>() where T : class

@@ -2,14 +2,66 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:UoS_Hub"
+             xmlns:material="clr-namespace:XF.Material.Forms.UI;assembly=XF.Material"
              Title="Welcome"
+             NavigationPage.HasNavigationBar="False"
              x:Class="UoS_Hub.Views.MainView">
 
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+    <StackLayout Padding="0, 20, 0,0">
+        <material:MaterialLabel 
+            TypeScale="H2"
+            Text="{Binding Welcome}"/>
+        <StackLayout Padding="10">
+            <material:MaterialLabel 
+                TypeScale="H3"
+                Text="Announcements"/>
+            <material:MaterialLabel 
+                TypeScale="H4"
+                Text="Lecture canceled"/>
+            <material:MaterialLabel 
+                TypeScale="Body1"
+                Text="Dear Students, I have to inform that COMP121 lecture on Monday is canceled"/>
+            <material:MaterialLabel 
+                TypeScale="Caption"
+                Text="Dr Dre"/>
+        </StackLayout>
+        <material:MaterialCard
+            CornerRadius="2"
+            Elevation="1" 
+            HeightRequest="80" 
+            HorizontalOptions="FillAndExpand">
+            <StackLayout HorizontalOptions="StartAndExpand"
+                         VerticalOptions="StartAndExpand">
+                <material:MaterialLabel 
+                    TypeScale="H3"
+                    Text="Next lecture"/>
+                <material:MaterialLabel 
+                    TypeScale="Body1"
+                    Text="{Binding NextLecture}"/>
+            </StackLayout>
+        </material:MaterialCard>
+        <CollectionView
+            ItemsSource="{Binding favourites}"
+            ItemsLayout="VerticalList">
+        <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <material:MaterialCard
+                        CornerRadius="2"
+                        HeightRequest="80"
+                        ClickCommand="{Binding BuildingClicked}"
+                        ClickCommandParameter="{Binding Number}"
+                        WidthRequest="80">
+                        <StackLayout HorizontalOptions="Center"
+                                     VerticalOptions="Center">
+                            <material:MaterialLabel 
+                                TypeScale="Body1"
+                                Text="{Binding Number}"/>
+                        </StackLayout>
+                    </material:MaterialCard>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        
     </StackLayout>
 
 </ContentPage>
